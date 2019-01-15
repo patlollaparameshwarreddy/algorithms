@@ -61,7 +61,7 @@ namespace Algorithms
         /// <summary>
         /// this method will take parameters 
         /// </summary>
-        /// <param name="lowerIndex"></param>
+        /// <param name="lowerIndex"> it will take lower index value</param>
         /// <param name="middle"></param>
         /// <param name="higherIndex"></param>
         public void MergeArray(int lowerIndex, int middle, int higherIndex)

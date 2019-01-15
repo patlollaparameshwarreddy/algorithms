@@ -18,6 +18,7 @@ namespace Algorithms
         /// <param name="args">The arguments.</param>
         public static void Main(string[] args)
         {
+            ////testing
             string condition = "null";
             ////this loop is used for running the code countineously util the condition is false
             do
