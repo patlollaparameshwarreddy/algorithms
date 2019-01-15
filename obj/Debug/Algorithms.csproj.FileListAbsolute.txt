@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\fellowship\functional\fellowship\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\fellowship\functional\fellowship\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\fellowship\functional\fellowship\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\Admin\Desktop\fellowship\functional\fellowship\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\Admin\Desktop\fellowship\functional\fellowship\Algorithms\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\Admin\Desktop\fellowship\functional\fellowship\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\Admin\Desktop\fellowship\functional\fellowship\Algorithms\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
