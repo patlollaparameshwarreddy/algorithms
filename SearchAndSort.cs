@@ -16,11 +16,11 @@ namespace Algorithms
         public void SearchAndSortedList()
         {
             Utility utility = new Utility();
-            //utility.BubbleSortOfIntegers();
-            //utility.BubbleSortOfString();
-            //utility.InsertionSortOfIteger();
-            //utility.InsertionSortOfString();
-            //utility.BinarySearchOfInteger();
+            utility.BubbleSortOfIntegers();
+            utility.BubbleSortOfString();
+            utility.InsertionSortOfIteger();
+            utility.InsertionSortOfString();
+            utility.BinarySearchOfInteger();
             utility.BinarySearchOfString();
         }
     }

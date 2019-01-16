@@ -3,6 +3,9 @@
   <project key="695861559">
     <configuration>DEBUG;TRACE</configuration>
   </project>
+  <project key="832650805">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
   <sourcecode name="Anagram.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2019-01-07 10:55:27.391</styleCop>
@@ -30,7 +33,7 @@
     <timestamps>
       <styleCop>2019-01-07 10:55:27.391</styleCop>
       <settingsFile>2019-01-07 10:55:27.368</settingsFile>
-      <sourceFile>2019-01-12 17:38:41.895</sourceFile>
+      <sourceFile>2019-01-16 10:35:24.484</sourceFile>
       <parser>2019-01-07 10:55:27.391</parser>
       <StyleCop.CSharp.DocumentationRules>2019-01-07 10:55:27.391</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>1786968637</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -47,13 +50,7 @@
       <StyleCop.CSharp.SpacingRules>2019-01-07 10:55:27.391</StyleCop.CSharp.SpacingRules>
       <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
     </timestamps>
-    <violations>
-      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="SingleLineCommentsMustNotUseDocumentationStyleSlashes" ruleCheckId="SA1626">
-        <context>Single-line comments must not begin with three slashes, which are reserved for lines within an Xml documentation header.</context>
-        <line>45</line>
-        <warning>False</warning>
-      </violation>
-    </violations>
+    <violations />
   </sourcecode>
   <sourcecode name="BinarySearchThroughFile.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
@@ -151,7 +148,7 @@
     <timestamps>
       <styleCop>2019-01-07 10:55:27.391</styleCop>
       <settingsFile>2019-01-07 10:55:27.368</settingsFile>
-      <sourceFile>2019-01-14 09:58:12.156</sourceFile>
+      <sourceFile>2019-01-16 10:36:48.637</sourceFile>
       <parser>2019-01-07 10:55:27.391</parser>
       <StyleCop.CSharp.DocumentationRules>2019-01-07 10:55:27.391</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>1786968637</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -197,7 +194,30 @@
     <timestamps>
       <styleCop>2019-01-07 10:55:27.391</styleCop>
       <settingsFile>2019-01-07 10:55:27.368</settingsFile>
-      <sourceFile>2019-01-14 09:58:43.166</sourceFile>
+      <sourceFile>2019-01-16 10:44:24.655</sourceFile>
+      <parser>2019-01-07 10:55:27.391</parser>
+      <StyleCop.CSharp.DocumentationRules>2019-01-07 10:55:27.391</StyleCop.CSharp.DocumentationRules>
+      <StyleCop.CSharp.DocumentationRules.FilesHashCode>1786968637</StyleCop.CSharp.DocumentationRules.FilesHashCode>
+      <StyleCop.CSharp.LayoutRules>2019-01-07 10:55:27.391</StyleCop.CSharp.LayoutRules>
+      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
+      <StyleCop.CSharp.MaintainabilityRules>2019-01-07 10:55:27.391</StyleCop.CSharp.MaintainabilityRules>
+      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
+      <StyleCop.CSharp.NamingRules>2019-01-07 10:55:27.391</StyleCop.CSharp.NamingRules>
+      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
+      <StyleCop.CSharp.OrderingRules>2019-01-07 10:55:27.391</StyleCop.CSharp.OrderingRules>
+      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
+      <StyleCop.CSharp.ReadabilityRules>2019-01-07 10:55:27.391</StyleCop.CSharp.ReadabilityRules>
+      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
+      <StyleCop.CSharp.SpacingRules>2019-01-07 10:55:27.391</StyleCop.CSharp.SpacingRules>
+      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="MergeSort.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2019-01-07 10:55:27.391</styleCop>
+      <settingsFile>2019-01-07 10:55:27.368</settingsFile>
+      <sourceFile>2019-01-15 12:19:43.291</sourceFile>
       <parser>2019-01-07 10:55:27.391</parser>
       <StyleCop.CSharp.DocumentationRules>2019-01-07 10:55:27.391</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>1786968637</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -243,7 +263,7 @@
     <timestamps>
       <styleCop>2019-01-07 10:55:27.391</styleCop>
       <settingsFile>2019-01-07 10:55:27.368</settingsFile>
-      <sourceFile>2019-01-12 10:33:41.406</sourceFile>
+      <sourceFile>2019-01-16 10:39:27.147</sourceFile>
       <parser>2019-01-07 10:55:27.391</parser>
       <StyleCop.CSharp.DocumentationRules>2019-01-07 10:55:27.391</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>1786968637</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -318,7 +338,7 @@
     <timestamps>
       <styleCop>2019-01-07 10:55:27.391</styleCop>
       <settingsFile>2019-01-07 10:55:27.368</settingsFile>
-      <sourceFile>2019-01-12 14:43:25.794</sourceFile>
+      <sourceFile>2019-01-15 12:20:22.214</sourceFile>
       <parser>2019-01-07 10:55:27.391</parser>
       <StyleCop.CSharp.DocumentationRules>2019-01-07 10:55:27.391</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>1786968637</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -335,74 +355,13 @@
       <StyleCop.CSharp.SpacingRules>2019-01-07 10:55:27.391</StyleCop.CSharp.SpacingRules>
       <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
     </timestamps>
-    <violations>
-      <violation namespace="StyleCop.CSharp.LayoutRules" rule="SingleLineCommentMustBePrecededByBlankLine" ruleCheckId="SA1515">
-        <context>A single-line comment must be preceded by a blank line or another single-line comment, or must be the first item in its scope. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
-        <line>19</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
-        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
-        <line>19</line>
-        <index>678</index>
-        <endIndex>710</endIndex>
-        <startLine>19</startLine>
-        <startColumn>13</startColumn>
-        <endLine>19</endLine>
-        <endColumn>45</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
-        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
-        <line>20</line>
-        <index>725</index>
-        <endIndex>755</endIndex>
-        <startLine>20</startLine>
-        <startColumn>13</startColumn>
-        <endLine>20</endLine>
-        <endColumn>43</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
-        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
-        <line>21</line>
-        <index>770</index>
-        <endIndex>803</endIndex>
-        <startLine>21</startLine>
-        <startColumn>13</startColumn>
-        <endLine>21</endLine>
-        <endColumn>46</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
-        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
-        <line>22</line>
-        <index>818</index>
-        <endIndex>851</endIndex>
-        <startLine>22</startLine>
-        <startColumn>13</startColumn>
-        <endLine>22</endLine>
-        <endColumn>46</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.SpacingRules" rule="SingleLineCommentsMustBeginWithSingleSpace" ruleCheckId="SA1005">
-        <context>The comment must start with a single space. To ignore this error when commenting out a line of code, begin the comment with '////' rather than '//'.</context>
-        <line>23</line>
-        <index>866</index>
-        <endIndex>899</endIndex>
-        <startLine>23</startLine>
-        <startColumn>13</startColumn>
-        <endLine>23</endLine>
-        <endColumn>46</endColumn>
-        <warning>False</warning>
-      </violation>
-    </violations>
+    <violations />
   </sourcecode>
   <sourcecode name="SqrtOfNonNegativeNumber.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2019-01-07 10:55:27.391</styleCop>
       <settingsFile>2019-01-07 10:55:27.368</settingsFile>
-      <sourceFile>2019-01-12 13:15:50.557</sourceFile>
+      <sourceFile>2019-01-16 10:40:30.015</sourceFile>
       <parser>2019-01-07 10:55:27.391</parser>
       <StyleCop.CSharp.DocumentationRules>2019-01-07 10:55:27.391</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>1786968637</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -425,7 +384,7 @@
     <timestamps>
       <styleCop>2019-01-07 10:55:27.391</styleCop>
       <settingsFile>2019-01-07 10:55:27.368</settingsFile>
-      <sourceFile>2019-01-12 17:11:01.424</sourceFile>
+      <sourceFile>2019-01-15 12:31:17.711</sourceFile>
       <parser>2019-01-07 10:55:27.391</parser>
       <StyleCop.CSharp.DocumentationRules>2019-01-07 10:55:27.391</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>1786968637</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -442,34 +401,13 @@
       <StyleCop.CSharp.SpacingRules>2019-01-07 10:55:27.391</StyleCop.CSharp.SpacingRules>
       <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
     </timestamps>
-    <violations>
-      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
-        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
-        <line>429</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.LayoutRules" rule="OpeningCurlyBracketsMustNotBeFollowedByBlankLine" ruleCheckId="SA1505">
-        <context>An opening curly bracket must not be followed by a blank line.</context>
-        <line>444</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="SingleLineCommentsMustNotUseDocumentationStyleSlashes" ruleCheckId="SA1626">
-        <context>Single-line comments must not begin with three slashes, which are reserved for lines within an Xml documentation header.</context>
-        <line>497</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
-        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
-        <line>490</line>
-        <warning>False</warning>
-      </violation>
-    </violations>
+    <violations />
   </sourcecode>
   <sourcecode name="VendingMachine.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2019-01-07 10:55:27.391</styleCop>
       <settingsFile>2019-01-07 10:55:27.368</settingsFile>
-      <sourceFile>2019-01-10 16:47:08.453</sourceFile>
+      <sourceFile>2019-01-16 10:42:08.618</sourceFile>
       <parser>2019-01-07 10:55:27.391</parser>
       <StyleCop.CSharp.DocumentationRules>2019-01-07 10:55:27.391</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>1786968637</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -492,7 +430,7 @@
     <timestamps>
       <styleCop>2019-01-07 10:55:27.391</styleCop>
       <settingsFile>2019-01-07 10:55:27.368</settingsFile>
-      <sourceFile>2019-01-10 16:48:00.786</sourceFile>
+      <sourceFile>2019-01-16 10:42:16.970</sourceFile>
       <parser>2019-01-07 10:55:27.391</parser>
       <StyleCop.CSharp.DocumentationRules>2019-01-07 10:55:27.391</StyleCop.CSharp.DocumentationRules>
       <StyleCop.CSharp.DocumentationRules.FilesHashCode>1786968637</StyleCop.CSharp.DocumentationRules.FilesHashCode>
@@ -510,238 +448,5 @@
       <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
     </timestamps>
     <violations />
-  </sourcecode>
-  <project key="832650805">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
-  <sourcecode name="MergeSort.cs" parser="StyleCop.CSharp.CsParser">
-    <timestamps>
-      <styleCop>2019-01-07 10:55:27.391</styleCop>
-      <settingsFile>2019-01-07 10:55:27.368</settingsFile>
-      <sourceFile>2019-01-15 10:58:49.969</sourceFile>
-      <parser>2019-01-07 10:55:27.391</parser>
-      <StyleCop.CSharp.DocumentationRules>2019-01-07 10:55:27.391</StyleCop.CSharp.DocumentationRules>
-      <StyleCop.CSharp.DocumentationRules.FilesHashCode>1786968637</StyleCop.CSharp.DocumentationRules.FilesHashCode>
-      <StyleCop.CSharp.LayoutRules>2019-01-07 10:55:27.391</StyleCop.CSharp.LayoutRules>
-      <StyleCop.CSharp.LayoutRules.FilesHashCode>0</StyleCop.CSharp.LayoutRules.FilesHashCode>
-      <StyleCop.CSharp.MaintainabilityRules>2019-01-07 10:55:27.391</StyleCop.CSharp.MaintainabilityRules>
-      <StyleCop.CSharp.MaintainabilityRules.FilesHashCode>0</StyleCop.CSharp.MaintainabilityRules.FilesHashCode>
-      <StyleCop.CSharp.NamingRules>2019-01-07 10:55:27.391</StyleCop.CSharp.NamingRules>
-      <StyleCop.CSharp.NamingRules.FilesHashCode>0</StyleCop.CSharp.NamingRules.FilesHashCode>
-      <StyleCop.CSharp.OrderingRules>2019-01-07 10:55:27.391</StyleCop.CSharp.OrderingRules>
-      <StyleCop.CSharp.OrderingRules.FilesHashCode>0</StyleCop.CSharp.OrderingRules.FilesHashCode>
-      <StyleCop.CSharp.ReadabilityRules>2019-01-07 10:55:27.391</StyleCop.CSharp.ReadabilityRules>
-      <StyleCop.CSharp.ReadabilityRules.FilesHashCode>0</StyleCop.CSharp.ReadabilityRules.FilesHashCode>
-      <StyleCop.CSharp.SpacingRules>2019-01-07 10:55:27.391</StyleCop.CSharp.SpacingRules>
-      <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
-    </timestamps>
-    <violations>
-      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ElementDocumentationHeadersMustNotBeFollowedByBlankLine" ruleCheckId="SA1506">
-        <context>A documentation header line must not be followed by a blank line.</context>
-        <line>10</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementsMustBeDocumented" ruleCheckId="SA1600">
-        <context>The field must have a documentation header.</context>
-        <line>20</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementsMustBeDocumented" ruleCheckId="SA1600">
-        <context>The field must have a documentation header.</context>
-        <line>21</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="AccessModifierMustBeDeclared" ruleCheckId="SA1400">
-        <context>The field must have an access modifier.</context>
-        <line>21</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParametersMustBeDocumented" ruleCheckId="SA1611">
-        <context>The documentation header must contain param tags matching the element's parameter list.</context>
-        <line>27</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
-        <context>The call to length must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>32</line>
-        <index>1009</index>
-        <endIndex>1014</endIndex>
-        <startLine>32</startLine>
-        <startColumn>46</startColumn>
-        <endLine>32</endLine>
-        <endColumn>51</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
-        <context>The call to DivideArray must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>34</line>
-        <index>1096</index>
-        <endIndex>1106</endIndex>
-        <startLine>34</startLine>
-        <startColumn>13</startColumn>
-        <endLine>34</endLine>
-        <endColumn>23</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
-        <context>The call to length must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>34</line>
-        <index>1111</index>
-        <endIndex>1116</endIndex>
-        <startLine>34</startLine>
-        <startColumn>28</startColumn>
-        <endLine>34</endLine>
-        <endColumn>33</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="UseBuiltInTypeAlias" ruleCheckId="SA1121">
-        <context>Use the built-in type alias 'string' rather than String or System.String.</context>
-        <line>27</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="UseBuiltInTypeAlias" ruleCheckId="SA1121">
-        <context>Use the built-in type alias 'string' rather than String or System.String.</context>
-        <line>32</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustHaveText" ruleCheckId="SA1614">
-        <context>The documentation text within the param tag for the '&lt;param name="lowerIndex" /&gt;' parameter must not be empty.</context>
-        <line>41</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustHaveText" ruleCheckId="SA1614">
-        <context>The documentation text within the param tag for the '&lt;param name="higherIndex" /&gt;' parameter must not be empty.</context>
-        <line>41</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="SingleLineCommentsMustNotUseDocumentationStyleSlashes" ruleCheckId="SA1626">
-        <context>Single-line comments must not begin with three slashes, which are reserved for lines within an Xml documentation header.</context>
-        <line>46</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ElementsMustBeSeparatedByBlankLine" ruleCheckId="SA1516">
-        <context>Adjacent elements must be separated by a blank line.</context>
-        <line>41</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ElementDocumentationHeaderMustBePrecededByBlankLine" ruleCheckId="SA1514">
-        <context>A documentation header must be preceded by a blank line or must be the first item in its scope.</context>
-        <line>36</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.MaintainabilityRules" rule="ArithmeticExpressionsMustDeclarePrecedence" ruleCheckId="SA1407">
-        <context>Insert parentheses within the arithmetic expression to declare the operator precedence.</context>
-        <line>47</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
-        <context>The call to DivideArray must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>50</line>
-        <index>1780</index>
-        <endIndex>1790</endIndex>
-        <startLine>50</startLine>
-        <startColumn>17</startColumn>
-        <endLine>50</endLine>
-        <endColumn>27</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
-        <context>The call to DivideArray must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>52</line>
-        <index>1913</index>
-        <endIndex>1923</endIndex>
-        <startLine>52</startLine>
-        <startColumn>17</startColumn>
-        <endLine>52</endLine>
-        <endColumn>27</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
-        <context>The call to MergeArray must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>54</line>
-        <index>2017</index>
-        <endIndex>2026</endIndex>
-        <startLine>54</startLine>
-        <startColumn>17</startColumn>
-        <endLine>54</endLine>
-        <endColumn>26</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustHaveText" ruleCheckId="SA1614">
-        <context>The documentation text within the param tag for the '&lt;param name="lowerIndex" /&gt;' parameter must not be empty.</context>
-        <line>64</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustHaveText" ruleCheckId="SA1614">
-        <context>The documentation text within the param tag for the '&lt;param name="middle" /&gt;' parameter must not be empty.</context>
-        <line>64</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.DocumentationRules" rule="ElementParameterDocumentationMustHaveText" ruleCheckId="SA1614">
-        <context>The documentation text within the param tag for the '&lt;param name="higherIndex" /&gt;' parameter must not be empty.</context>
-        <line>64</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.LayoutRules" rule="ClosingCurlyBracketMustBeFollowedByBlankLine" ruleCheckId="SA1513">
-        <context>Statements or elements wrapped in curly brackets must be followed by a blank line.</context>
-        <line>85</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
-        <context>The call to array must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>68</line>
-        <index>2528</index>
-        <endIndex>2532</endIndex>
-        <startLine>68</startLine>
-        <startColumn>42</startColumn>
-        <endLine>68</endLine>
-        <endColumn>46</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
-        <context>The call to tempMergeArray must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>78</line>
-        <index>2858</index>
-        <endIndex>2871</endIndex>
-        <startLine>78</startLine>
-        <startColumn>37</startColumn>
-        <endLine>78</endLine>
-        <endColumn>50</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
-        <context>The call to tempMergeArray must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>76</line>
-        <index>2758</index>
-        <endIndex>2771</endIndex>
-        <startLine>76</startLine>
-        <startColumn>36</startColumn>
-        <endLine>76</endLine>
-        <endColumn>49</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
-        <context>The call to tempMergeArray must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>76</line>
-        <index>2777</index>
-        <endIndex>2790</endIndex>
-        <startLine>76</startLine>
-        <startColumn>55</startColumn>
-        <endLine>76</endLine>
-        <endColumn>68</endColumn>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="StyleCop.CSharp.ReadabilityRules" rule="PrefixLocalCallsWithThis" ruleCheckId="SA1101">
-        <context>The call to tempMergeArray must begin with the 'this.' prefix to indicate that the item is a member of the class.</context>
-        <line>83</line>
-        <index>3000</index>
-        <endIndex>3013</endIndex>
-        <startLine>83</startLine>
-        <startColumn>37</startColumn>
-        <endLine>83</endLine>
-        <endColumn>50</endColumn>
-        <warning>False</warning>
-      </violation>
-    </violations>
   </sourcecode>
 </stylecopresultscache>

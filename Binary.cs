@@ -17,34 +17,41 @@ namespace Algorithms
         /// </summary>
         public void NewNumber()
         {
-            Utility utility = new Utility();
-            string binaryNumber = utility.ToBinary();
-            ////if condition is used for converting the binary number in to 8 bits
-            if (binaryNumber.Length < 8)
+            try
             {
-                while (binaryNumber.Length < 8)
+                Utility utility = new Utility();
+                string binaryNumber = utility.ToBinary();
+                ////if condition is used for converting the binary number in to 8 bits
+                if (binaryNumber.Length < 8)
                 {
-                    binaryNumber = 0 + binaryNumber;
+                    while (binaryNumber.Length < 8)
+                    {
+                        binaryNumber = 0 + binaryNumber;
+                    }
                 }
-            }
 
-            string nibble1 = binaryNumber.Substring(0, 4);
-            string nibble2 = binaryNumber.Substring(4);
-            string newBinaryNumber = nibble2 + nibble1;
-            int newDecimalNumber = 0;
-            int index = 0;
-            ////this for loop is used for converting binary number in to decimal number
-            for (int i = newBinaryNumber.Length - 1; i >= 0; i--)
+                string nibble1 = binaryNumber.Substring(0, 4);
+                string nibble2 = binaryNumber.Substring(4);
+                string newBinaryNumber = nibble2 + nibble1;
+                int newDecimalNumber = 0;
+                int index = 0;
+                ////this for loop is used for converting binary number in to decimal number
+                for (int i = newBinaryNumber.Length - 1; i >= 0; i--)
+                {
+                    string numberInCharForm = newBinaryNumber[index] + string.Empty;
+                    int number = Convert.ToInt32(numberInCharForm);
+                    index++;
+                    newDecimalNumber = (int)((number * Math.Pow(2, i)) + newDecimalNumber);
+                }
+
+                //// added code in binary
+                Console.WriteLine("new decimal number is " + newDecimalNumber);
+                Console.ReadLine();
+            }
+            catch (Exception e)
             {
-                string numberInCharForm = newBinaryNumber[index] + string.Empty;
-                int number = Convert.ToInt32(numberInCharForm);
-                index++;
-                newDecimalNumber = (int)((number * Math.Pow(2, i)) + newDecimalNumber);
+                Console.WriteLine(e.Message);
             }
-
-            /// added code in binary
-            Console.WriteLine("new decimal number is " + newDecimalNumber);
-            Console.ReadLine();
         }
     }
 }

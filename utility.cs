@@ -58,7 +58,7 @@ namespace Algorithms
                 {
                     if ((i % j) == 0)
                     {
-                        count++;    
+                        count++;
                     }
                 }
 
@@ -126,7 +126,7 @@ namespace Algorithms
             Console.WriteLine("enter number of years");
             double years = this.GetDouble();
             Console.WriteLine("enter rate of intrest");
-             double rate = this.GetDouble();
+            double rate = this.GetDouble();
             double n = 12 * years;
             double r = rate / (12 * 100);
             double payment = (principle * r) / (1 - Math.Pow(1 + r, -n));
@@ -218,18 +218,18 @@ namespace Algorithms
         /// binary  search of integer.
         /// </summary>
         public void BinarySearchOfInteger()
-         {
-             Utility utility = new Utility();
-             int size = this.SizeOfArray();
-             int[] numbers = new int[size];
-             Console.WriteLine("enter integers in ascending order array elements");
-             for (int i = 0; i < size; i++)
-             {
-                 numbers[i] = utility.GetInt();
-             }
+        {
+            Utility utility = new Utility();
+            int size = this.SizeOfArray();
+            int[] numbers = new int[size];
+            Console.WriteLine("enter integers in ascending order array elements");
+            for (int i = 0; i < size; i++)
+            {
+                numbers[i] = utility.GetInt();
+            }
 
-             this.LogicForBinarySearchOfInteger(numbers);
-         }
+            this.LogicForBinarySearchOfInteger(numbers);
+        }
 
         /// <summary>
         /// Insertions  sort of string.
@@ -423,10 +423,11 @@ namespace Algorithms
                 {
                     firstIndex = middleIndex + 1;
                 }
-               else
+                else
                 {
                     lastIndex = middleIndex - 1;
                 }
+
                 if (firstIndex > lastIndex)
                 {
                     Console.WriteLine("element not found");
@@ -442,7 +443,6 @@ namespace Algorithms
         /// </summary>
         public void BinarySearchOfString()
         {
-
             Console.WriteLine("enter size of an array");
             int size = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("enter string");
@@ -484,19 +484,19 @@ namespace Algorithms
                 {
                     firstIndex = middleIndex + 1;
                 }
-                else 
+                else
                 {
                     lastIndex = middleIndex - 1;
                 }
+
                 if (firstIndex > lastIndex)
                 {
                     Console.WriteLine("element not found");
                 }
             }
-            
-            /// added
+
             this.stopwatch.Stop();
             Console.WriteLine("time taken for binary search of string is " + this.stopwatch.Elapsed);
-        }  
+        }
     }
 }
